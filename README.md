@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Urvish Babariya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ICT+%40+Dhirubhai+Ambani+University;Problem Solving+%7C+DSA+Enthusiast;Building+with+Generative+AI+%2F+LLM+Agents;LangGraph+%C2%B7+RAG+%C2%B7+Vision+%C2%B7+Groq" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ICT+%40+Dhirubhai+Ambani+University;Problem+Solving+%7C+DSA+Enthusiast;Building+with+Generative+AI+%2F+LLM+Agents;LangGraph+%C2%B7+RAG+%C2%B7+Vision+%C2%B7+Groq" alt="Typing SVG" />
 </p>
 
 <p align="center">
