@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Urvish Babariya 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ICT+%40+Dhirubhai+Ambani+University;Competitive+Programmer+%7C+DSA+Enthusiast;Building+with+Generative+AI+%2F+LLM+Agents;LangGraph+%C2%B7+RAG+%C2%B7+Vision+%C2%B7+Groq" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=B.Tech+ICT+%40+Dhirubhai+Ambani+University;Problem Solving+%7C+DSA+Enthusiast;Building+with+Generative+AI+%2F+LLM+Agents;LangGraph+%C2%B7+RAG+%C2%B7+Vision+%C2%B7+Groq" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/urvish-babariya-b38180305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Urvish_babariya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:urvishbabariya07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
