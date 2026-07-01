@@ -15,7 +15,7 @@
 
 ### 🌟 About Me
 
-I'm an Information & Communication Technology student who splits time between two worlds: grinding **DSA** on LeetCode/GFG for the fundamentals, and building **Generative AI systems** — RAG pipelines, multi-tool LangGraph agents, and vision-enabled assistants — for the fun of shipping something that actually answers questions.
+I'm an Information & Communication Technology student who splits time between two worlds: grinding **DSA** on LeetCode/Codeforces for the fundamentals, and building **Generative AI systems** — RAG pipelines, multi-tool LangGraph agents, and vision-enabled assistants — for the fun of shipping something that actually answers questions.
 
 - 🔭 Currently building **HybridSight** — a RAG + Web Search + Vision agent with LangGraph, Groq, and ChromaDB
 - 🌱 Currently deep in a 6-week Generative AI curriculum (`genai-soc-2026`)
