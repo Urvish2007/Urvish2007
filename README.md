@@ -118,13 +118,21 @@ I'm an Information & Communication Technology student who splits time between tw
 
 ### 📊 GitHub Stats
 
+<!--
+  NOTE: The public github-readme-stats.vercel.app instance has been unreliable
+  (repeated 502/503 outages, and the owner has paused the deployment entirely
+  at times due to rate-limit/cost issues — see github.com/anuraghazra/github-readme-stats/issues/4737).
+  Once you deploy your own instance (see instructions at the bottom of this file),
+  replace YOUR-INSTANCE below with your Vercel domain, e.g. urvish-stats.vercel.app
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urvish2007&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=Urvish2007&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urvish2007&theme=dracula&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvish2007&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Urvish2007&layout=compact&theme=dracula&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -134,3 +142,23 @@ I'm an Information & Communication Technology student who splits time between tw
 ---
 
 <p align="center"><i>Currently grinding: LeetCode streaks by day, LangGraph agents by night.</i></p>
+
+<!--
+  ============================================================
+  SETUP: Deploy your own github-readme-stats instance
+  ============================================================
+  The shared public instance frequently goes down (503/502
+  errors, sometimes fully paused by the maintainer). Fix:
+
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Import your fork at https://vercel.com/new
+  3. In Vercel project settings → Environment Variables, add:
+       PAT_1 = <a GitHub Personal Access Token, no scopes needed
+                 for public data>
+  4. Deploy. You'll get a URL like your-name-stats.vercel.app
+  5. Replace "YOUR-INSTANCE" in the two badge URLs above with
+     that domain.
+
+  Once done, delete this comment block.
+  ============================================================
+-->
