@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/urvish-babariya-b38180305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Urvish_babariya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:urvishbabariya07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -15,11 +14,12 @@
 
 ### 🌟 About Me
 
-I'm an Information & Communication Technology student who splits time between two worlds: grinding **DSA** on LeetCode/Codeforces for the fundamentals, and building **Generative AI systems** — RAG pipelines, multi-tool LangGraph agents, and vision-enabled assistants — for the fun of shipping something that actually answers questions.
+I'm an Information & Communication Technology student who splits time between two worlds: grinding **DSA** on LeetCode and GeeksforGeeks for the fundamentals, and building **Generative AI systems** — RAG pipelines, multi-tool LangGraph agents, and vision-enabled assistants — for the fun of shipping something that actually answers questions.
 
 - 🔭 Currently building **HybridSight** — a RAG + Web Search + Vision agent with LangGraph, Groq, and ChromaDB
 - 🌱 Currently deep in a 6-week Generative AI curriculum (`genai-soc-2026`)
 - 💡 Also comfortable in database design — built a production-style pharma tracking system in PostgreSQL
+- 📅 Solving GeeksforGeeks' Problem of the Day + tracking LeetCode solutions daily
 - ⚡ Fun fact: my first "AI agent" was a terminal Tetris game with better collision logic than most tutorials
 
 ---
@@ -60,9 +60,9 @@ I'm an Information & Communication Technology student who splits time between tw
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Beekeeper%20Studio-F7B93E?style=for-the-badge&logo=beekeeperstudio&logoColor=black" />
-<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beekeeper%20Studio-F7B93E?style=for-the-badge&logo=beekeeperstudio&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -95,7 +95,21 @@ I'm an Information & Communication Technology student who splits time between tw
       <h4>🎮 OOPs Classic Tetris Game</h4>
       <p>Terminal-based Tetris built to showcase clean object-oriented design — collision detection, piece rotation, and state management.</p>
       <sub><b>Stack:</b> C++ · OOP</sub><br/>
-      <a href="https://github.com/Urvish2007/OOPs-Schema-Tetris-Game">Repo →</a>
+      <a href="https://github.com/Urvish2007/OOPs-Classic-Tetris-Game">Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🧩 LeetCode Solutions</h4>
+      <p>Ongoing archive of LeetCode problem solutions, organized by topic and difficulty as part of a daily DSA grind.</p>
+      <sub><b>Stack:</b> C++ / Python</sub><br/>
+      <a href="https://github.com/Urvish2007/Leetcode_Solutions">Repo →</a>
+    </td>
+    <td width="50%">
+      <h4>✅ GfG Problem of the Day</h4>
+      <p>Daily solutions to GeeksforGeeks' Problem of the Day, tracking consistency and covering a wide spread of DSA topics.</p>
+      <sub><b>Stack:</b> C++ / Python</sub><br/>
+      <a href="https://github.com/Urvish2007/GeeksForGeeks-Problem-Of-The-Day-Solutions">Repo →</a>
     </td>
   </tr>
 </table>
@@ -105,12 +119,12 @@ I'm an Information & Communication Technology student who splits time between tw
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Urvish2007&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urvish2007&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Urvish2007&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urvish2007&theme=dracula&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvish2007&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urvish2007&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
